@@ -1,23 +1,23 @@
 # Hi, I'm David (KuoWei Tseng)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&width=500&lines=ML+engineer+in+training+%C2%B7+EE+undergrad+%40+UCalgary;Edge+ML+%C2%B7+Uncertainty-aware+models+%C2%B7+Biosystems;Published+researcher+%C2%B7+Open+to+ML+%2F+AI+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&width=580&lines=ML+engineer+in+training+%C2%B7+EE+undergrad+%40+UCalgary;Edge+ML+%C2%B7+OOD+robustness+%C2%B7+Uncertainty-aware+models;Published+researcher+%C2%B7+Open+to+ML+%2F+AI+roles)](https://git.io/typing-svg)
 
-EE undergrad building ML systems that work at the edges — of hardware, of data distributions, and of what models should confidently predict. I care about reliability and scientific interpretability, not just benchmark numbers.
+EE undergrad building ML systems that work at the edges — of hardware, of data distributions, and of what models should confidently predict. I care about OOD robustness and reliable inference, not just benchmark accuracy.
 
-Currently finishing my capstone (edge-deployed corrosion detection rover) and looking for ML engineering roles.
+Currently finishing my capstone (edge-deployed corrosion detection rover, 95.6% accuracy, 0.873 OOD AUROC) and looking for ML engineering roles.
 
-📄 [Personal site](https://tseng0318.github.io) · 📝 [Published paper](https://tseng0318.github.io/Feasibility%20of%20recent%20peptide%20therapy.pdf) · 📧 kuowei.tseng@ucalgary.ca
+📄 [Personal site](https://tseng0318.github.io) &nbsp;·&nbsp; 📝 [Published paper](https://tseng0318.github.io/Feasibility%20of%20recent%20peptide%20therapy.pdf) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/kuowei-tseng-071079220) &nbsp;·&nbsp; 📧 kuowei.tseng@ucalgary.ca
 
 ---
 
-## Featured work
+## Featured projects
 
-| Project | What it does | Key tech |
+| Project | What it does | Key results |
 |---|---|---|
-| [ZeroG Coating Rover](https://www.zerogcoating.com/) | Autonomous surface inspection with edge-deployed corrosion detection | ResNet18, centroid-distance OOD rejection, pruning & quantization |
-| TrashAuto | Autonomous garbage collection rover with two-stage vision pipeline | YOLO + ResNet34, LiDAR, IMU, wheel encoders |
-| FPGA Game FSM | Full RTL design and verification on Artix-7 | SystemVerilog, Basys 3, testbench simulation |
-| Analog IC Self-Study | Transistor-level design using real process models | Cadence Virtuoso, Spectre, TSMC PDK |
+| [ZeroG Coating Rover](https://www.zerogcoating.com/) | Edge-deployed corrosion detection with OOD rejection | 95.6% acc · 0.873 OOD AUROC · 94% collision avoidance |
+| Representation Learning & OOD Study | Comparative study of SimCLR, SupCon, BYOL, ViT on corrosion detection | 0.839 feature AUROC · ~83.5% early exits at ~91.8% acc |
+| TrashAuto | Autonomous garbage rover with two-stage CNN pipeline | 91.7% real-world accuracy · YOLO + ResNet34 |
+| FPGA Game System | Modular RTL design and verification on Artix-7 | SystemVerilog · FSM · clock divider · testbench |
 
 ---
 
@@ -25,12 +25,13 @@ Currently finishing my capstone (edge-deployed corrosion detection rover) and lo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8A2BE2?style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -45,6 +46,6 @@ Currently finishing my capstone (edge-deployed corrosion detection rover) and lo
 
 ## Certifications
 
-- PyTorch for Deep Learning Specialization — DeepLearning.AI (2026)
-- Natural Language Processing with Sequence Models — DeepLearning.AI (2026)
-- Transformer Models and BERT — Google Cloud (2026)
+- PyTorch for Deep Learning Specialization — DeepLearning.AI (2026) · [certificate](https://coursera.org/share/b2d0db8baf1482e9a027b7cebd3f6c3a)
+- Natural Language Processing with Sequence Models — DeepLearning.AI (2026) · [certificate](https://www.coursera.org/account/accomplishments/records/EBM5C0WLAO6V)
+- Transformer Models and BERT — Google Cloud (2026) · [certificate](https://coursera.org/share/4a948500aff685fd2395cf91b6f2eae9)
