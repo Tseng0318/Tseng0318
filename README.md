@@ -4,7 +4,7 @@
 
 EE undergrad building ML systems that work at the edges — of hardware, of data distributions, and of what models should confidently predict. I care about OOD robustness and reliable inference, not just benchmark accuracy.
 
-Currently finishing my capstone (edge-deployed corrosion detection rover, 95.6% accuracy, 0.873 OOD AUROC) and looking for ML engineering roles.
+I have successfully completed my capstone (edge-deployed corrosion detection rover, 95.6% accuracy, 0.873 OOD AUROC) and looking for ML engineering roles.
 
 📄 [Personal site](https://tseng0318.github.io) &nbsp;·&nbsp; 📝 [Published paper](https://tseng0318.github.io/Feasibility%20of%20recent%20peptide%20therapy.pdf) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/kuowei-tseng-071079220) &nbsp;·&nbsp; 📧 kuowei.tseng@ucalgary.ca
 
