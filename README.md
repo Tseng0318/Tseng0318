@@ -6,6 +6,8 @@ I'm an EE undergrad building ML systems that work at the edges — of hardware, 
 
 I have finished my capstone on edge-deployed corrosion detection rover. The model reached a 95.6% accuracy, and 0.873 OOD AUROC.
 
+Aside from Computer Vision, I've built Natural Language Translation system between ENG-POR, and ENG-CN.
+
 📄 [Personal site](https://tseng0318.github.io) &nbsp;·&nbsp; 📝 [Published paper](https://tseng0318.github.io/Feasibility%20of%20recent%20peptide%20therapy.pdf) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/kuowei-tseng-071079220) &nbsp;·&nbsp; 📧 kuowei.tseng@ucalgary.ca
 
 ---
