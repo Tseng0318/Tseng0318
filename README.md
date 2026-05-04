@@ -18,7 +18,7 @@ Aside from Computer Vision, I've built Natural Language Translation system betwe
 |---|---|---|
 | [ZeroG Coating Rover](https://www.zerogcoating.com/) | Edge-deployed corrosion detection with OOD rejection | 95.6% acc · 0.873 OOD AUROC · 94% collision avoidance |
 | Representation Learning & OOD Study | Comparative study of SimCLR, SupCon, BYOL, ViT on corrosion detection | 0.839 feature AUROC · ~83.5% early exits at ~91.8% acc |
-| NLP Translation Study | Compare LSTM, TF, RoPE based TF on language translation |  |
+| NLP Translation Study | Compare LSTM, TF, RoPE based TF on language translation | Model	ROUGE-1 LSTM: 0.6508 Transformer (Sinusoidal): 0.6505 Transformer (RoPE): 0.6817 |
 | TrashAuto | Autonomous garbage rover with two-stage CNN pipeline | 91.7% real-world accuracy · YOLO + ResNet34 |
 | FPGA Game System | Modular RTL design and verification on Artix-7 | SystemVerilog · FSM · clock divider · testbench |
 
