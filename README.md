@@ -1,4 +1,4 @@
-# Hi, I'm David (KuoWei Tseng)
+# Hi, I'm David Tseng
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&width=580&lines=ML+engineer+in+training+%C2%B7+EE+undergrad+%40+UCalgary;Edge+ML+%C2%B7+OOD+robustness+%C2%B7+Uncertainty-aware+models;Published+researcher+%C2%B7+Open+to+ML+%2F+AI+roles)](https://git.io/typing-svg)
 
