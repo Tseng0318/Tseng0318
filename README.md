@@ -41,7 +41,7 @@ Aside from Computer Vision, I've built Natural Language Translation system betwe
 
 <p align="left">
   <img height="180" src="https://github-readme-stats-3dbda05hw-tseng0318s-projects.vercel.app/api?username=Tseng0318&show_icons=true&theme=github_dark&hide_border=true&count_private=true&card_width=400" />
-  <img height="180" src="https://github-readme-stats-3dbda05hw-tseng0318s-projects.vercel.app/api/top-langs/?username=Tseng0318&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=400" />
+  <img height="200" src="https://github-readme-stats-3dbda05hw-tseng0318s-projects.vercel.app/api/top-langs/?username=Tseng0318&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=400" />
 </p>
 
 ---
