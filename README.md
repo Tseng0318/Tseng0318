@@ -51,4 +51,5 @@ Aside from Computer Vision, I've built Natural Language Translation system betwe
 - PyTorch for Deep Learning Specialization — DeepLearning.AI (Mar 2026) · [certificate](https://coursera.org/share/b2d0db8baf1482e9a027b7cebd3f6c3a)
 - Natural Language Processing with Sequence Models — DeepLearning.AI (Apr 2026) · [certificate](https://www.coursera.org/account/accomplishments/records/EBM5C0WLAO6V)
 - Natural Language Processing with Attention Models — DeepLearning.AI (May 2026) · [certificate](https://coursera.org/share/11bc12cbded2b5ddfc9cfe832e7a0cab)
+- Fundamentals of Reinforcement Learning — University of Alberta (June 2026) · [certificate](https://coursera.org/share/22848b520fa80c1a8fc7ab819464645c)
 - Transformer Models and BERT — Google Cloud (Feb 2026) · [certificate](https://coursera.org/share/4a948500aff685fd2395cf91b6f2eae9)
