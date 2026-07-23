@@ -53,4 +53,5 @@ Aside from Computer Vision, I've built Natural Language Translation system betwe
 - Natural Language Processing with Sequence Models — DeepLearning.AI (Apr 2026) · [certificate](https://www.coursera.org/account/accomplishments/records/EBM5C0WLAO6V)
 - Natural Language Processing with Attention Models — DeepLearning.AI (May 2026) · [certificate](https://coursera.org/share/11bc12cbded2b5ddfc9cfe832e7a0cab)
 - Fundamentals of Reinforcement Learning — University of Alberta (June 2026) · [certificate](https://coursera.org/share/22848b520fa80c1a8fc7ab819464645c)
+- Sample-based Learning Methods — University of Alberta (Jul 2026) · [certificate](https://coursera.org/share/cb4353e2176573b3418127c5ad497a53)
 - Transformer Models and BERT — Google Cloud (Feb 2026) · [certificate](https://coursera.org/share/4a948500aff685fd2395cf91b6f2eae9)
